@@ -37,20 +37,19 @@
     font-family: 'Roboto Slab', serif;
     background-color: #3DC320;
     color: #403C34;
-    font-size: 16px;
+    font-size: 20px;
     padding: 16px 50px;
 }
 
 h2 {
     font-family: 'Roboto Slab', serif;
-    text-align: center;
+    text-align: left;
     align-items: center;
-    border-radius: 15px 40px;
+    border-radius: 5px 5px;
+    border-color: #3DC320;
     background: #C49D8D;
-    padding: 20px;
-    margin: 20px;
-    width: 300px;
-    height: 50px;
+    margin: 10px;
+    font-size: 20px;
 }
 
 button {
@@ -94,18 +93,17 @@ span {
 .sign {
     position: relative;
     justify-content: flex-start;
-    padding-top: 60px;
-    align-items: self-position;
+    padding-top: 90px;
+    align-items: center;
     flex-wrap: wrap;
     width: 50%;
     height: 50%;
-    background-image: radial-gradient( ellipse 50% 35% at 50% 50%, #6b1839, transparent);
-    transform: translate(-50%, -50%);
+    background-image: radial-gradient( ellipse 200% 110% at 100% 40%, #6b1839, transparent);
+    transform: translate(-30%, 0%);
     letter-spacing: 4;
     left: 50%;
-    top: 50%;
+    top: 110%;
     font-family: "Clip";
-    text-transform: uppercase;
     font-size: 25px;
     color: #ffe6ff;
     text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #ff65bd, -0.2rem 0.1rem 1rem #ff65bd, 0.2rem 0.1rem 1rem #ff65bd, 0 -0.5rem 2rem #ff2483, 0 0.5rem 3rem #ff2483;
@@ -251,17 +249,16 @@ span {
     position: relative;
     display: flex;
     justify-content: left;
-    padding-top: 50px;
+    padding-top: 80px;
     align-items: center;
     width: 50%;
     height: 50%;
-    background-image: radial-gradient( ellipse 50% 35% at 50% 50%, #6b1839, transparent);
-    transform: translate(-50%, -50%);
+    background-image: radial-gradient( ellipse 200% 130% at 100% 40%, #6b1839, transparent);
+    transform: translate(-30%, -20%);
     letter-spacing: 4;
     left: 50%;
     top: 50%;
     font-family: "Clip";
-    text-transform: uppercase;
     font-size: 25px;
     color: #ffe6ff;
     text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #ff65bd, -0.2rem 0.1rem 1rem #ff65bd, 0.2rem 0.1rem 1rem #ff65bd, 0 -0.5rem 2rem #ff2483, 0 0.5rem 3rem #ff2483;

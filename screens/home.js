@@ -1,7 +1,8 @@
 let magic = document.querySelector("#whereMagicHappens");
 
 function renderMe() {
-    let aboutMe = `<div id="aboutMe">  
+    let aboutMe = `<div id="aboutMe"> 
+    <h2>Grisel Sánchez</h2> 
     <h2>Front End Developer</h2>
     <div class="container">
       <img src="gris (1).png" alt="Avatar" class="image" style="width:100%">
